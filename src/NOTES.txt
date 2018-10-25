@@ -1,0 +1,5 @@
+components folder 
+to put components 
+
+containers
+to put smart components, the ones that have state, the lifecycle methods
